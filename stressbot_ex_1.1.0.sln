@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stressbot_ex_1.1.0", "stressbot_ex_1.1.0\stressbot_ex_1.1.0.csproj", "{B528DB32-E552-4705-B73D-2948ECD78620}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B528DB32-E552-4705-B73D-2948ECD78620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B528DB32-E552-4705-B73D-2948ECD78620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B528DB32-E552-4705-B73D-2948ECD78620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B528DB32-E552-4705-B73D-2948ECD78620}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43FEBA46-6BC1-45F9-A08F-936B8B034D17}
+	EndGlobalSection
+EndGlobal
